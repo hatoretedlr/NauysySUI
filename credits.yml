@@ -17,8 +17,6 @@ jobs:
           affiliation: all
           includeBots: false
           excludeUsers: snyk-bot
-          avatarSize: 96
-          userNameHeight: 20
           svgWidth: 830
           commitMessage: 'Updates contributor SVG'
   # Job #2 - Inserts sponsors into credits page
